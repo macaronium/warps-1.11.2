@@ -10,3 +10,6 @@ Adds warp command to minecraft.
 `warp list`: list all warps
 
 `warp <name>`: teleport to given warp
+
+###Dependencies:
+- Forge 13.20.0.2226
