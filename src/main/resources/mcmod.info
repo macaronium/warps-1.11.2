@@ -1,0 +1,16 @@
+[
+{
+  "modid": "warp",
+  "name": "Warp",
+  "description": "Adds a /warp command.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/WetDude",
+  "updateUrl": "",
+  "authorList": ["WetDude"],
+  "credits": "The Forge and FML guys, insomnia and a lot of free time!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
