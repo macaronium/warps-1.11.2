@@ -1,7 +1,7 @@
 # Warp
 Adds warp command to minecraft.
 
-###Usage:
+### Usage:
 
 `warp add <name>`: add or modify warp
 
@@ -11,5 +11,5 @@ Adds warp command to minecraft.
 
 `warp <name>`: teleport to given warp
 
-###Dependencies:
+### Dependencies:
 - Forge 13.20.0.2226
